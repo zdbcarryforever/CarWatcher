@@ -1,0 +1,2 @@
+build/GUI/GUI.pkg filter=lfs diff=lfs merge=lfs -text
+dist/CarWatcher.exe filter=lfs diff=lfs merge=lfs -text
